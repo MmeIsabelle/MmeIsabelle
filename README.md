@@ -22,6 +22,14 @@
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmeisabelle&show_icons=true&locale=en&layout=compact" alt="mmeisabelle" /></p>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmeisabelle&show_icons=true&locale=en&layout=compact" alt="mmeisabelle" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmeisabelle&show_icons=true&locale=en" alt="mmeisabelle" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmeisabelle&show_icons=true&locale=en" alt="mmeisabelle" /></p> -->
+
+<div>
+
+![](https://raw.githubusercontent.com/MmeIsabelle/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MmeIsabelle/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/MmeIsabelle/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MmeIsabelle/github-stats/master/generated/overview.svg#gh-light-mode-only)
+</div>
